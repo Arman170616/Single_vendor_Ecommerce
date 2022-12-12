@@ -1,0 +1,14 @@
+Todo list
+
+- Install and Setup DJango
+- Install and Setup VueJS
+- Include font Awesome
+- Set up the base template
+- Create DJangoapp and models for products
+- create serializer and views for the products
+- create simpale front page(latesr products)
+- View a product 
+    - create viewset in DJango
+    - create vue page for showing product
+    - add link to detail page 
+- sette     
