@@ -1,3 +1,8 @@
+python -m pip freeze
+env1/bin/python -m pip freeze > requirements.txt
+env2/bin/python -m pip install -r requirements.txt
+
+
 Todo list
 
 - Install and Setup DJango
@@ -11,4 +16,20 @@ Todo list
     - create viewset in DJango
     - create vue page for showing product
     - add link to detail page 
-- sette     
+
+- Sette opp Vuex / State
+- Make it possible to add to cart
+- Implement a loading bar
+- Set document title (All pages)
+- Make it possible to view a category
+- Add search functionality
+- View cart
+- Change contents of cart
+- Make it possible to sign up
+- Make it possible to log in
+- Create a simple my account page
+- Proceed to checkout (Authentication)
+- Create a simple success page
+- Show my orders on the my account page
+- Deploy Django 
+- Deploy Vue (Generate files locally, Send files to server, Set up nginx virtual host)
