@@ -1,3 +1,6 @@
 env
 venv
 environment_3_8_2
+node_modules
+package-lock.json
+package.json
